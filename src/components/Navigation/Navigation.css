@@ -3,7 +3,6 @@
     width: 100%;
     height: 75px;
     background-color: #0c0c1e;
-    color: #fff;
 }
 
 .navlist {
@@ -12,6 +11,7 @@
     align-items: center;
     width: 40%;
     height: 75px;
+    list-style: none;
 }
 
 .navlist li {
